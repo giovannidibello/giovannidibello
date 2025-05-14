@@ -26,9 +26,13 @@ Mi occupo dello sviluppo di progetti full-stack con **React**, **Express**, **PH
 
 ---
 
-## 🗓️ Attività recente
+## 🚀 Progetti in evidenza
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giovannidibello&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### [📊 Budget Tracker](https://github.com/giovannidibello/budget-tracker)
+![Budget Tracker Preview](https://github.com/giovannidibello/budget-tracker/raw/main/frontend/public/BudgetTrackerPreview.gif)
+
+Applicazione full-stack sviluppata con **React** ed **Express** per monitorare entrate e uscite mensili.  
+Include un **grafico riepilogativo** e un’interfaccia **user-friendly**, ideale per tenere sotto controllo il proprio budget personale.
 
 ---
 
