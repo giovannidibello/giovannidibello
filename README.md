@@ -34,6 +34,12 @@ Mi occupo dello sviluppo di progetti full-stack con **React**, **Express**, **PH
 Applicazione full-stack sviluppata con **React** ed **Express** per monitorare entrate e uscite mensili.  
 Include un **grafico riepilogativo** e un’interfaccia **user-friendly**, ideale per tenere sotto controllo il proprio budget personale.
 
+### [🎬 Movie WebApp](https://github.com/giovannidibello/webapp-react)
+![Movie WebApp Preview](https://github.com/giovannidibello/webapp-react/blob/main/public/preview.png)
+
+Un'applicazione full-stack per la gestione di film, creata con React per il front-end e Express per il back-end.
+Gli utenti possono visualizzare, creare e gestire film, grazie all'API di Express che gestisce i dati e il database.
+
 ---
 
 ## 📫 Contattami
