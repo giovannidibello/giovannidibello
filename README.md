@@ -28,21 +28,12 @@ Mi occupo dello sviluppo di progetti full-stack con **React**, **Express**, **PH
 
 ## 🚀 Progetti in evidenza
 
-<div align="center">
-  
-  <a href="https://github.com/giovannidibello/budget-tracker" style="margin-right: 20px;">
-    <img src="https://github.com/giovannidibello/budget-tracker/raw/main/frontend/public/BudgetTrackerPreview.gif" width="300px"><br/>
-    <strong>📊 Budget Tracker</strong><br/>
-    <sub>React & Express | Monitoraggio entrate/uscite mensili</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/giovannidibello/webapp-react">
-    <img src="https://github.com/giovannidibello/webapp-react/blob/main/public/preview.png" width="300px"><br/>
-    <strong>🎬 Movie WebApp</strong><br/>
-    <sub>React & Express | Gestione database di film</sub>
-  </a>
-
-</div>
+| 📊 **[Budget Tracker](https://github.com/giovannidibello/budget-tracker)** | 🎬 **[Movie WebApp](https://github.com/giovannidibello/webapp-react)** |
+| :---: | :---: |
+| <img src="https://github.com/giovannidibello/budget-tracker/raw/main/frontend/public/BudgetTrackerPreview.gif" width="300px"> <br> Applicazione full-stack per monitorare entrate e uscite mensili sviluppata con **React** ed **Express**. | <img src="https://github.com/giovannidibello/webapp-react/blob/main/public/preview.png" width="300px"> <br> Un'applicazione full-stack per la gestione di film, creata con **React** per il front-end e **Express** per il back-end. |
+| 🎵 **[My Spotify - Clone HTML/CSS](https://github.com/giovannidibello/html-css-spotifyweb)** | 🦸‍♂️ **[DC Comics React UI](https://github.com/giovannidibello/react-dc-comics)** |
+| :---: | :---: |
+| <img src="https://github.com/giovannidibello/html-css-spotifyweb/raw/main/img/preview.png" width="300px"> <br> Ricreazione statica dell'interfaccia utente di **Spotify**, realizzata con **HTML** e **CSS**. Un esercizio front-end **responsive** con struttura complessa, sidebar dinamica e sezione player. | <img src="https://github.com/giovannidibello/react-dc-comics/raw/main/public/preview.png" width="300px" height="150px"> <br> Interfaccia front-end dinamica ispirata al mondo **DC Comics**, realizzata in **React**. Un progetto moderno e **responsive** con layout a componenti e cards dinamiche per i prodotti. |
 
 ---
 
