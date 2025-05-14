@@ -1,7 +1,7 @@
 # 👋 Ciao! Benvenuto nel mio profilo GitHub
 
-Sono uno sviluppatore web con una forte passione per la tecnologia, lo sport, la palestra, le serie TV e i videogiochi.  
-Attualmente sviluppo progetti full-stack utilizzando **React**, **Express**, **PHP** e **Laravel**, con un focus su applicazioni gestionali e web app interattive.
+Sono uno sviluppatore web curioso e determinato, con interessi che spaziano dalla tecnologia allo sport, dalla palestra alle serie TV e ai videogiochi.
+Mi occupo dello sviluppo di progetti full-stack con **React**, **Express**, **PHP** e **Laravel**, con particolare attenzione alle applicazioni gestionali e alle web app interattive.
 
 ---
 
@@ -22,7 +22,6 @@ Attualmente sviluppo progetti full-stack utilizzando **React**, **Express**, **P
 
 ## 📊 GitHub Stats
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=giovannidibello&show_icons=true&theme=radical&hide_title=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannidibello&layout=compact&theme=radical)
 
 ---
