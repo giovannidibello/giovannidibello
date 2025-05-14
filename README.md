@@ -35,7 +35,7 @@ Attualmente sviluppo progetti full-stack utilizzando **React**, **Express**, **P
 
 ## 📫 Contattami
 
-- 🌐 [Il tuo sito o portfolio](https://github.com/giovannidibello)
-- ✉️ Email: [tu@email.com](mailto:dibellogio@gmail.com)
+- 🌐 [Portfolio](https://github.com/giovannidibello)
+- ✉️ Email:(mailto:dibellogio@gmail.com)
 
 
