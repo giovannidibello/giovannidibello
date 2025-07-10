@@ -1,7 +1,6 @@
 # 👋 Ciao! Benvenuto nel mio profilo GitHub
 
-Sono uno sviluppatore web curioso e determinato, con interessi che spaziano dalla tecnologia allo sport, dalla palestra alle serie TV e ai videogiochi.
-Mi occupo dello sviluppo di progetti full-stack con **React**, **Express**, **PHP** e **Laravel**, con particolare attenzione alle applicazioni gestionali e alle web app interattive.
+Sono uno sviluppatore web full-stack, curioso e determinato, con una forte passione per la tecnologia. Mi piace creare applicazioni web moderne, interattive e funzionali, combinando tecnologie come React, Express, PHP e Laravel. Oltre al codice, coltivo interessi che spaziano dallo sport alla palestra, passando per le serie TV e i videogiochi — passioni che spesso ispirano anche i miei progetti. Mi concentro in particolare sullo sviluppo di web app gestionali e interfacce intuitive che migliorano l'esperienza utente.
 
 ---
 
@@ -27,6 +26,10 @@ Mi occupo dello sviluppo di progetti full-stack con **React**, **Express**, **PH
 ---
 
 ## 🚀 Progetti in evidenza
+
+| 🕹 **[Gamelion Admin - Laravel](https://github.com/giovannidibello/laravel-gamelion)** | 🕹 **[Gamelion Public - React](https://github.com/giovannidibello/react-gamelion)** |
+| :---: | :---: |
+| <img src="https://github.com/giovannidibello/laravel-gamelion/raw/main/resources/img/gamelion-demo.gif" width="300px"> <br> **Pannello di amministrazione** sviluppato con **Laravel** e Blade per la gestione di giochi, generi e piattaforme. | <img src="https://github.com/giovannidibello/react-gamelion/raw/main/public/gamelion-demo-fe.gif" width="300px"> <br> **Frontend pubblico** creato in **React**. Mostra l’elenco giochi con **ricerca**, **filtri** e **dettagli** per ogni titolo. Consuma le API Laravel. |
 
 | 📊 **[Budget Tracker](https://github.com/giovannidibello/budget-tracker)** | 🎬 **[Movie WebApp](https://github.com/giovannidibello/webapp-react)** |
 | :---: | :---: |
